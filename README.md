@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Comecei meus estudos focado em JavaScript e Python<br>📚 Atualmente estou aprendendo Python, Git e GitHub<br>🎯 Objetivos: Me aprimorar tanto no Front End como no Back End</p>
+<p align="left">✨ Comecei meus estudos focado em JavaScript e Python<br>📚 Atualmente estou aprendendo Python, Git e GitHub<br>🎯 Objetivos: Me aprimorar tanto no FrontEnd como no BackEnd</p>
 
 ###
 
